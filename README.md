@@ -65,10 +65,12 @@ Download the latest version from [Releases](../../releases):
 |-------|--------|------------|
 | Hardware encoder (h264_qsv/nvenc) may fail on some systems | Known | App auto-fallbacks to software encoder (libx264) |
 | Hotkeys may conflict with other applications | Known | Change hotkeys in Settings → Hotkeys |
-| System audio may not capture on some audio drivers | Investigating | Try selecting different speaker device |
+| System audio may not capture on some audio drivers | Known | Try selecting different speaker device |
 | High CPU usage at 60 FPS with 4K resolution | Expected | Lower resolution or FPS for older hardware |
 | Drawing overlay may flicker on multi-monitor setups | Known | Use single monitor during recording |
-| Recordings longer than 2 hours may have sync issues | Investigating | Split long recordings into shorter sessions |
+| Recordings longer than 2 hours may have sync issues | Known | Split long recordings into shorter sessions |
+| Command prompt or command window showing in some areas | Known | Ignore it as it known as this software normal behavior, you may commonly see when accesing audio settings, check system, or evaluating performance, and also when encoding the screen record, if you believe seeing it on other state you can report an issue on this repo.
+
 
 ---
 
@@ -129,3 +131,4 @@ Download the latest version from [Releases](../../releases):
 **© 2025 Arinara Network. All rights reserved.**
 **© 2025 Arinara Network. All rights reserved.**
  All rights reserved.**
+
