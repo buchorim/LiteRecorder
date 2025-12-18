@@ -32,9 +32,43 @@ Download the latest version from [Releases](../../releases):
 
 ## 💻 System Requirements
 
-- **OS:** Windows 10/11 (64-bit)
-- **FFmpeg:** Required for video encoding ([Download FFmpeg](https://ffmpeg.org/download.html))
-- **Disk Space:** 150 MB minimum
+### Minimum Specifications
+
+| Component | Requirement |
+|-----------|-------------|
+| **OS** | Windows 10 (64-bit) |
+| **CPU** | Intel Core i3 / AMD Ryzen 3 (4 cores) |
+| **RAM** | 4 GB |
+| **GPU** | Integrated graphics |
+| **Disk Space** | 150 MB for installation |
+| **Display** | 1280x720 (720p) |
+| **Dependencies** | FFmpeg (for video encoding) |
+
+### Recommended Specifications
+
+| Component | Recommendation |
+|-----------|----------------|
+| **OS** | Windows 11 (64-bit) |
+| **CPU** | Intel Core i5 / AMD Ryzen 5 (6+ cores) |
+| **RAM** | 8 GB or more |
+| **GPU** | Dedicated GPU with hardware encoding (NVENC/QSV) |
+| **Disk Space** | SSD with 1+ GB free (for recordings) |
+| **Display** | 1920x1080 (1080p) or higher |
+
+> ⚠️ **Note:** Higher resolution/FPS recordings require more CPU/GPU power.
+
+---
+
+## ⚠️ Known Issues
+
+| Issue | Status | Workaround |
+|-------|--------|------------|
+| Hardware encoder (h264_qsv/nvenc) may fail on some systems | Known | App auto-fallbacks to software encoder (libx264) |
+| Hotkeys may conflict with other applications | Known | Change hotkeys in Settings → Hotkeys |
+| System audio may not capture on some audio drivers | Investigating | Try selecting different speaker device |
+| High CPU usage at 60 FPS with 4K resolution | Expected | Lower resolution or FPS for older hardware |
+| Drawing overlay may flicker on multi-monitor setups | Known | Use single monitor during recording |
+| Recordings longer than 2 hours may have sync issues | Investigating | Split long recordings into shorter sessions |
 
 ---
 
@@ -75,24 +109,12 @@ Download the latest version from [Releases](../../releases):
 
 ## 📋 Changelog
 
-### v2.1.0 (December 2024)
+### v2.1.0 (December 2025)
 - Added text annotation tool
 - Fixed system audio capture
 - Improved hotkey handling
 - Added countdown timer
 - UI improvements
-
----
-
-## 📄 License
-
-This software is distributed under the **Arinara Software Desktop License**.
-
-- ✅ Free for personal use
-- ❌ Commercial use prohibited
-- ❌ Modification/redistribution prohibited
-
-See [LICENSE.txt](LICENSE.txt) for full terms.
 
 ---
 
@@ -103,4 +125,7 @@ See [LICENSE.txt](LICENSE.txt) for full terms.
 
 ---
 
+
 **© 2025 Arinara Network. All rights reserved.**
+**© 2025 Arinara Network. All rights reserved.**
+ All rights reserved.**
