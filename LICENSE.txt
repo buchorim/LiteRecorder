@@ -1,0 +1,177 @@
+ARINARA SOFTWARE DESKTOP LICENSE
+
+Version 1.0
+Effective Date: December 18, 2024
+
+================================================================================
+
+1. DEFINITIONS
+
+"Software" refers to any desktop application distributed under this Arinara 
+Software Desktop License.
+
+"Licensor" refers to Arinara, the copyright holder and distributor of the 
+Software.
+
+"User" or "You" refers to any individual or entity that downloads, installs, 
+or uses the Software.
+
+"Official Source" refers to authorized distribution channels specified by the 
+Licensor, including but not limited to official GitHub repositories or other 
+designated platforms.
+
+================================================================================
+
+2. GRANT OF LICENSE
+
+Subject to the terms and conditions of this License, the Licensor grants You 
+a worldwide, royalty-free, non-exclusive, perpetual license to:
+
+- Download and install the Software on your personal devices
+- Use the Software for personal, non-commercial purposes
+- Share the Software with others, provided it remains unmodified and is 
+  obtained from Official Sources
+
+================================================================================
+
+3. RESTRICTIONS
+
+You are NOT permitted to:
+
+3.1 Commercial Use
+- Sell, rent, lease, or otherwise commercialize the Software in any form
+- Monetize the Software through advertisements, subscriptions, or any 
+  revenue-generating mechanisms
+- Use the Software as part of a paid service or product
+
+3.2 Exploitation
+- Modify, adapt, translate, or create derivative works based on the Software
+- Reverse engineer, decompile, or disassemble the Software
+- Remove, alter, or obscure any proprietary notices, labels, or marks from 
+  the Software
+
+3.3 Ownership Infringement
+- Claim ownership or authorship of the Software
+- Redistribute modified versions of the Software
+- Distribute the Software through unofficial channels or sources
+
+3.4 Redistribution Requirements
+If sharing the Software, You must:
+- Ensure the Software remains complete and unmodified
+- Direct recipients to download from Official Sources only
+- Include this License with any distribution
+
+================================================================================
+
+4. AGE RESTRICTION
+
+The Software is intended for users aged 13 years or older. By using the 
+Software, You confirm that You meet this age requirement. Users under 13 
+years of age are prohibited from using the Software.
+
+================================================================================
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+The Licensor makes no guarantees regarding:
+- The Software's performance, reliability, or suitability for any purpose
+- The absence of errors, bugs, or security vulnerabilities
+- Compatibility with your system or other software
+- Continued availability or support
+
+================================================================================
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE.
+
+This includes but is not limited to:
+- Direct, indirect, incidental, special, or consequential damages
+- Loss of data, profits, or business opportunities
+- System damage or malfunction
+- Any losses resulting from fraud, deception, or third-party actions
+
+You assume all risks associated with the use of the Software.
+
+================================================================================
+
+7. INTELLECTUAL PROPERTY
+
+All rights, title, and interest in and to the Software, including all 
+intellectual property rights, remain exclusively with the Licensor. This 
+License does not grant You any rights to trademarks, service marks, or 
+trade names of the Licensor.
+
+================================================================================
+
+8. TERMINATION
+
+This License is effective until terminated. Your rights under this License 
+will terminate automatically without notice if You fail to comply with any 
+of its terms. Upon termination, You must cease all use of the Software and 
+destroy all copies in your possession.
+
+================================================================================
+
+9. SUPPORT AND UPDATES
+
+The Licensor is under no obligation to provide technical support, 
+maintenance, updates, or bug fixes. However, if available, support may be 
+accessed through official contact channels provided by the Licensor.
+
+For errors or issues, You may contact the Licensor through the designated 
+support channels, though response is not guaranteed.
+
+================================================================================
+
+10. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws 
+of the jurisdiction in which the Licensor operates, without regard to its 
+conflict of law provisions.
+
+================================================================================
+
+11. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between You and the Licensor 
+regarding the Software and supersedes all prior or contemporaneous 
+understandings and agreements, whether written or oral.
+
+================================================================================
+
+12. SEVERABILITY
+
+If any provision of this License is held to be unenforceable or invalid, 
+such provision shall be changed and interpreted to accomplish the objectives 
+of such provision to the greatest extent possible under applicable law, and 
+the remaining provisions shall continue in full force and effect.
+
+================================================================================
+
+13. ACCEPTANCE
+
+By downloading, installing, or using the Software, You acknowledge that You 
+have read this License, understand it, and agree to be bound by its terms 
+and conditions.
+
+If You do not agree to these terms, You are not authorized to use the 
+Software.
+
+================================================================================
+
+Copyright (c) 2024 Arinara. All rights reserved.
+
+================================================================================
+
+CONTACT INFORMATION
+
+For questions, support requests, or license inquiries:
+https://github.com/arinara-network
