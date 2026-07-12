@@ -127,9 +127,15 @@ Download the latest version from [Releases](../../releases):
 
 ---
 
+## License
 
-**© 2025 Arinara Network. All rights reserved.**
-**© 2025 Arinara Network. All rights reserved.**
- All rights reserved.**
+LiteRecorder is licensed under [Arinara Network License 1](LICENSE). Use, modification,
+distribution, and commercial use are permitted with visible credit to Arinara Network
+and retention of the license notice.
+
+---
+
+
+**© 2025 Arinara Network. All rights reserved except as granted under Arinara Network License 1.**
 
 
